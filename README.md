@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Abdulla Mashayev
+- 👀 I’m interested in Web Dewelopment
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me:
+- gmail-abdullamshv@gmail.com
+- Instagram- @usrd2049 
+- 😄 Pronouns: He/his
