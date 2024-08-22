@@ -2,6 +2,6 @@
 - 👀 I’m interested in Web Dewelopment
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
-- gmail-abdullamshv@gmail.com
+- Gmail- abdullamshv@gmail.com
 - Instagram- @usrd2049 
 - 😄 Pronouns: He/his
