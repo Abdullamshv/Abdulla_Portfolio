@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import "./mixin";
+
+body {
+    @include flex(flex, center, center);
+    height: 100vh;
+    background-color: #000;
+    .submit-btn {
+        width: 150px;
+        height: 40px;
+        @include font(sans-serif, 18px, null);
+        border: none;
+        border-radius: 10px;
+        background-color: rgb(65, 222, 65);
+        color: #000;
+        &:hover {
+            background-color: rgb(63, 208, 63);
+            cursor: pointer;
+        }
+    }
+
+    .popup {
+        @include flex(flex, center, center);
+        position: absolute;
+        top: 0;
+        left: 50%;
+        width: 400px;
+        height: 300px;
+        background: #fff;
+        border: none;
+        border-radius: 10px;
+        transform: translate(-50%, -50%) scale(0.1);
+        text-align: center;
+        padding: 0 30px;
+        color: #333;
+        visibility: hidden;
+        transition: 0.4s;
+        .title {
+            @include font(sans-serif, 40px, 600);
+            position: absolute;
+            top: 50px;
+            color: rgb(4, 167, 4);
+        }
+        .para {
+            @include font(sans-serif, 15px, null);
+        }
+        .ok-btn {
+            position: absolute;
+            bottom: 50px;
+            width: 100px;
+            height: 30px;
+            border: none;
+            border-radius: 6px;
+            background-color: rgb(82, 233, 82);
+            @include font(sans-serif, 12px, null);
+            &:hover {
+                background-color: rgb(80, 215, 80);
+                cursor: pointer;
+            }
+        }
+    }
+    .open-popup{
+        visibility: visible;
+        top: 50%;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
