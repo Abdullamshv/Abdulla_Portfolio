@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 - Gmail- abdullamshv@gmail.com
 - Instagram- @usrd2049 
-- 😄 Pronouns: He/his <br>🌱 I’m currently learning: JS, Python, React<br>💬 Ask me about<br>
+- 😄 Pronouns: He/his
 
 
 ## 🌐 Socials:
