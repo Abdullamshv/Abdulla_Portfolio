@@ -5,7 +5,8 @@
 - 😎 I already know HTML, CSS, SCSS, TailWind/CSS
 - 📫 How to reach me:
 - Gmail- abdullamshv@gmail.com
-- Instagram- @usrd2049 
+- Instagram- @usrd2049
+- Linkedin - www.linkedin.com/in/abdulla-mashayev
 - 😄 Pronouns: He/his
 
 
