@@ -1,8 +1,0 @@
-- 👋 Hi, I’m Abdulla Mashayev
-- 👀 I’m interested in Web Dewelopment
-- 🌱 I’m currently learning JavaScript
-- 😎 I already know HTML, CSS, SCSS, TailWind/CSS
-- 📫 How to reach me:
-- Gmail- abdullamshv@gmail.com
-- Instagram- @usrd2049 
-- 😄 Pronouns: He/his
