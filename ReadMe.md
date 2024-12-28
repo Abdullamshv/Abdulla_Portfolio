@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Abdulla Mashayev
-- 👀 I’m interested in Web Dewelopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 😎 I already know HTML, CSS, SCSS, TailWind/CSS
 - 📫 How to reach me:
